@@ -2,13 +2,13 @@
 Project created on 2020-06-06
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+The project is to provide users with insights on Bikeshare world using an interactive tool.
 
 ### Files used
-Include the files used
+Files used are Chicago.csv, New York City.csv, and Washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.

@@ -26,7 +26,7 @@ def get_filters():
     while city not in ('Chicago', 'New York', 'Washington'):
 
         city_name = input().title()
-        
+
         print('\nCity Selected: {}'.format(city_name))
 
         if city_name not in ('Chicago', 'New York', 'Washington'):
@@ -215,6 +215,7 @@ def main():
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
+            print("Good Bye!")
             break
 
 
